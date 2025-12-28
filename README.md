@@ -7,7 +7,7 @@
 
 <p>
   - Hi there, I’m <strong>Nguyen Huu Khoi</strong> — but you can call me <strong>Khoi Be</strong>.  
-  I’m a passionate developer currently studying at <strong>Danang University of Technology</strong>.  
+  I’m a passionate developer currently studying at Danang University of Technology.
   I love creating full-stack web applications and exploring modern software architecture.  
 </p>
 
