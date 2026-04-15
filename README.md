@@ -25,4 +25,7 @@
   <em>"Clean code. Strong coffee. Clear mind."</em>
 </p>
 
+<p align="center">
+  <em>Senior Game Player</em>
+</p>
 <p align="center">• • •</p>
