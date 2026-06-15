@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  - I’m currently diving deeper into system design and algorithms, always seeking cleaner, scalable solutions. 
+  - I’m currently diving deeper into system design, algorithms and devops, always seeking cleaner, scalable solutions. 
   For me, simplicity is the ultimate sophistication. I strive to write code that is self-documenting and architectures that are robust enough to handle growth.
 </p>
 
